@@ -66,6 +66,6 @@ Temas que se vieron durante el curso
 
 ### CONTACTO
 
-Si tienes alguna pregunta o sugerencia, puedes contactar al autor a través de `https://correo@correo.com`.
+Si tienes alguna pregunta o sugerencia, puedes contactar al autor a través de `2036000114@utna.edu.mx`.
 
 ¡Gracias por tu interés en este proyecto!
