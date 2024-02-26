@@ -34,7 +34,7 @@ Temas que se vieron durante el curso
 ### Instalacion
 
 ###### clonar repositorio
-`git clone https://nkjnjnkjnkjnkjkn`
+`git clone https://github.com/RichardsonER22/ProyectoBootcamp`
 
 - Asegurate de tener Node.js y npm instalados
 
